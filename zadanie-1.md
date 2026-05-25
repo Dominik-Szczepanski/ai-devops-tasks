@@ -6,11 +6,3 @@ DevOps to podejście do pracy, które łączy zespoły deweloperskie i operacyjn
 - Kubernetes
 - Jenkins
 
-## 5 korzyści z używania kontenerów Docker w środowisku programistycznym
-- Spójne środowisko na różnych komputerach i systemach.
-- Łatwiejsze uruchamianie i wdrażanie aplikacji.
-- Izolacja zależności między projektami.
-- Szybsze tworzenie i testowanie aplikacji.
-- Prostszą współpracę w zespole i szybsze onboardowanie nowych osób.
-
-(Odpowiedź przygotował GPT-5.4 mini)

@@ -1,0 +1,46 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Local env files (contain secrets)
+.env
+.env.*.local
+.env.docker
+
+# Logs and coverage
+logs/
+*.log
+coverage/
+
+# Build output
+dist/
+build/
+
+# Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Docker overrides and local compose files (may contain secrets or local overrides)
+docker-compose.override.yml
+docker-compose.*.local.yml
+
+# Local MongoDB data directories
+/data/db/
+/mongo-data/
+mongodb-data/
+
+# OS or tool generated files
+*.swp
+*.swo
+*.tmp
+
+# Optional: ignore node debug files
+*.tgz
+
+# Keep package-lock.json and yarn.lock committed for reproducible installs
+# package-lock.json
+# yarn.lock
